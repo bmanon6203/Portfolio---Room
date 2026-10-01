@@ -1,8 +1,8 @@
 // ═══ TES INFORMATIONS — modifie uniquement ce fichier pour le texte du site ═══
 export const site = {
   name: 'Manon',
-  tagline: 'Creative designer / Motion / 3D / Visuals',
-  hint: 'Explore my universe — choisis un objet',
+  tagline: 'Creative designer / Motion / 3D / Animation',
+  //hint: 'Explore my universe',
   // Décor d'accueil : type "image" (public/background.jpg) ou "video" (public/background.mp4)
   background: { type: 'image', src: '/background.jpg', poster: '/background.jpg' },
   profile: {
